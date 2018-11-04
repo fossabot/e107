@@ -1,6 +1,7 @@
 ## e107 [Content Management System][1] (CMS) - v2
 
-[![Join the chat at https://gitter.im/e107inc/e107](https://badges.gitter.im/e107inc/e107.svg)](https://gitter.im/e107inc/e107?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/e107inc/e107](https://badges.gitter.im/e107inc/e107.svg)](https://gitter.im/e107inc/e107?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDeltik%2Fe107.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDeltik%2Fe107?ref=badge_shield)
+
 
 ### What is e107?
 e107 is a free (open-source) content management system which allows you to easily manage and publish your content online. Developers can save time in building websites and powerful online applications. Users can avoid programming completely! Blogs, Websites, Intranets - e107 does it all. 
@@ -76,3 +77,6 @@ If you like e107 and wish to help it to improve - please consider making a small
 
   [1]: http://e107.org
   [2]: http://www.e107.org
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDeltik%2Fe107.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDeltik%2Fe107?ref=badge_large)
